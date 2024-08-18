@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyDMJp9xmNpBnog6uVoGcmSUO8tl-Mg4rLY';
+const API_KEY = 'THE API KEY';
 const BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
 export const getComments = async (videoId) => {
