@@ -1,0 +1,32 @@
+{
+  "name": "Timestamp Navigator",
+  "version": "1.0.0",
+  "description": "Used to be able to pin comments while watching a video to go to a certain timestamp 📌",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "service-worker.js",
+    "type": "module"
+  },
+  "icons": {
+    "32": "icon32.png"
+  },
+  "author": {
+    "name": "Gus"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_popup_size": {
+      "width": 400,
+      "height": 600
+    }
+  },
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
