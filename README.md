@@ -1,8 +1,7 @@
-# React + Vite
+# Proyecto React + Vite Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una extensión sencilla para poder fijar los comentarios que contengan marcas de tiempo, construido para ir a una marca de tiempo determinada, ayudándote a estar más cómodo al ver un vídeo sin tener que buscar un comentario específico 📌
 
-Currently, two official plugins are available:
+Página para descargar la extensión:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@golivera/timestamp-navigator](https://microsoftedge.microsoft.com/addons/detail/timestamp-navigator/ipnjfkefpdgplogpeegpjnaibobdlabj?hl=es-419)
